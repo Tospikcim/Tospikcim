@@ -21,7 +21,7 @@
 </p>
 <h3 align="center">🌟 Social media </h3>
 <p align='center'>
-<a href="https://discord.gg/zN5hjyCBJR">
+<a href="https://discord.gg/1937">
 <img src= "https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"/> </a>&nbsp;&nbsp;
 <a href="https://github.com/Tospikcim">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
