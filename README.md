@@ -30,7 +30,7 @@
 </p>  
 
 ## 🐉 Discord Account
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/987485827540062240?hideDiscrim=true)](https://discord.com/users/769979665224958020)
 
 ## 🍷 GitHub Stats
 <p align = 'center'>
